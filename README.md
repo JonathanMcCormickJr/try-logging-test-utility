@@ -40,3 +40,16 @@ Use the logging module to log error messages at appropriate levels.
 Handle errors gracefully as specified above.
 Write clean, well-organized code with appropriate comments and docstrings.
 Good luck!
+
+## Tools
+
+```
+# Basic message levels format
+
+logging.debug('This is a debug message')
+logging.info('This is an info message')
+logging.warning('This is a warning message')
+logging.error('This is an error message')
+logging.critical('This is a critical message')
+
+```
