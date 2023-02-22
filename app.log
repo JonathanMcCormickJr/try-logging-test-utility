@@ -3,3 +3,13 @@
 2023-02-22 05:10:49,993 - WARNING - This is a warning message
 2023-02-22 05:10:49,993 - ERROR - This is an error message
 2023-02-22 05:10:49,994 - CRITICAL - This is a critical message
+2023-02-22 05:11:58,016 - DEBUG - This is a debug message
+2023-02-22 05:11:58,017 - INFO - This is an info message
+2023-02-22 05:11:58,017 - WARNING - This is a warning message
+2023-02-22 05:11:58,017 - ERROR - This is an error message
+2023-02-22 05:11:58,017 - CRITICAL - This is a critical message
+2023-02-22 05:11:58,017 - ERROR - An error occurred: division by zero
+Traceback (most recent call last):
+  File "main.py", line 14, in <module>
+    1/0
+ZeroDivisionError: division by zero
